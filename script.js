@@ -31,3 +31,5 @@ console.log(mult);
 function Resta(num1, num2) {
     return num1 - num2;
 }
+
+menos = Resta(num1, num2);
