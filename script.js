@@ -11,4 +11,5 @@ let fin = 3;
 
 //#endregion
 
+console.log(Nombre);
 //#region
