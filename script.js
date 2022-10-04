@@ -24,3 +24,5 @@ console.log(Pais);
 function Multiplicacion(num1, num2) {
     return num1 * num2;
 }
+
+mult = Multiplicacion(num1, num2);
