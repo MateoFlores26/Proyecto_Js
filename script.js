@@ -26,3 +26,4 @@ function Multiplicacion(num1, num2) {
 }
 
 mult = Multiplicacion(num1, num2);
+console.log(mult);
