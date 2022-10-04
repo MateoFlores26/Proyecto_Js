@@ -20,3 +20,7 @@ console.log(Pais);
 //#endregion
 
 //#region
+
+function Multiplicacion(num1, num2) {
+    return num1 * num2;
+}
