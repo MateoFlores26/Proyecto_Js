@@ -16,3 +16,5 @@ let fin = 3;
 console.log(Nombre);
 console.log(Apellido);
 console.log(Pais);
+
+//#endregion
