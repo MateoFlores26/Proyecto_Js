@@ -11,6 +11,8 @@ let fin = 3;
 
 //#endregion
 
+//#region
+
 console.log(Nombre);
 console.log(Apellido);
-//#region
+console.log(Pais);
