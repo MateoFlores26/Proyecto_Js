@@ -33,3 +33,4 @@ function Resta(num1, num2) {
 }
 
 menos = Resta(num1, num2);
+console.log(menos);
