@@ -38,3 +38,5 @@ console.log(menos);
 //#endregion
 
 //#region
+
+const Nombres = ["Mateo Flores", "Kamel Dayub", "Lionel Messi"];
